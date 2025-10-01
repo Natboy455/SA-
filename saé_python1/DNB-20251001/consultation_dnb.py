@@ -5,5 +5,3 @@ import explore_dnb as dnb
 # ici votre programme principal
 def programme_principal():
     ...
-
-gggg
